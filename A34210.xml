@@ -1,0 +1,1053 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Concurrent declaration of the inhabitants of the city and liberty of Westminister, with the declaration of the people of England for a free Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34210</idno>
+            <idno type="STC">Wing C5716</idno>
+            <idno type="STC">ESTC R40862</idno>
+            <idno type="EEBO-CITATION">19524850</idno>
+            <idno type="OCLC">ocm 19524850</idno>
+            <idno type="VID">108960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34210)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108960)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1684:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Concurrent declaration of the inhabitants of the city and liberty of Westminister, with the declaration of the people of England for a free Parliament</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Tho. Fisher [and 298 others].</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:108960:1"/>
+            <head>A Concurrent Declaration of the Inhabitants of the City and Liberty Of <hi>Weſtminſter,</hi> with the Declaration of the People of <hi>ENGLAND</hi> for a FREE PARLIAMENT.</head>
+            <p>WHereas by a wonderfull Revolution of the Divine Providence, thoſe Members of the long Parliament which were ſtrangely brought in by the Army <hi>May</hi> the 7. 1659) and as ſtrangely outed by them (<hi>Octob.</hi> the 13. 1659. are now ſtrangely returned to ſit in the Houſe as before, we judge it our concern<g ref="char:EOLhyphen"/>ment to call to mind the Act by them made and publiſhed, immediately before their forcible Interruption, intituled, <hi>An Act againſt raiſing of money upon the people without their conſent in Parliament:</hi> which Act of theirs proceeds in theſe words, <hi>And be it further enacted, that no Perſon or Perſons ſhall after the</hi> 11 <hi>of October</hi> 1659 <hi>Aſſeſs, Lew, Collect, Gather or Receive, any Cuſtome, Impoſts, Exciſe, Aſſeſment, Contribution, Tax, Tallage, or any ſum or ſums of money, or other Impoſitions whatſoe<g ref="char:EOLhyphen"/>ver, upon the people of this Common wealth, without their conſent in Parliament, or as by Law might have been done before the</hi> 3 <hi>of November,</hi> 1640. <hi>And be it further enacted and declared, that every perſon offending againſt this Act ſhall be, and is hereby adjudged to be guilty of High Treaſon, and ſhall forfeit and ſuffer as in eaſe of High Treaſon</hi> Hereupon we judg'd it meet and equitable to make this following Declaration.</p>
+            <p>We do therefore declare that we do freely, cordially, and unanimouſly aſſent to the equity of this Act, as conſonant to the fundamentall Laws of our Nation, the benefit whereof we doubt not but we may juſtly claim, as our birth-priviledge in all ſuch caſes and concernments.</p>
+            <p>And accordingly we do hereby declare that we are ready and willing, as ſoon as an opportunity is given us, to make choice of ſuch Perſons as may Declare our con<g ref="char:EOLhyphen"/>ſent in Parliament, for the raiſing of ſuch ſums of money, as by them ſhall be thought neceſſary to defray the publick charges, and mannage the publick concerns of the Nation, ſeeing moſt of thoſe perſons that were formerly choſen by us for this purpoſe, are either taken away by death, or by ſecluſion debarr'd from ſitting in the Houſe.</p>
+            <p>And we do hereby further declare that we neither do nor ſhall ever give our conſent, that any Aſſeſment ſhould be made, or impoſition laid upon us by any perſon or perſons whatſoever, untill our conſent be ſo declared by perſons thus choſen and intruſted by us for this end and purpoſe.</p>
+            <p>And therefore if any perſon or perſons whatſoever ſhall contrary to the forementioned Act, and the Fundamental Lawes of this Nation, lay any Aſſeſment or Impo<g ref="char:EOLhyphen"/>ſition upon us before our conſent is thus declared, under what pretence or colour ſoever of authority or neceſſity it ſhall be done, we do hereby declare to the World, that we are under manifeſt conſtraint and force, and our Goods and Eſtates are violently extorted from us, contrary to Law and Juſtice, which injuries we ſhall no longer bear then an opportunity ſhall be offered us to right our ſelves, and repoſſeſs thoſe priviledges that pertain to us by the Laws of our Nation.</p>
+            <p>And hereunto ſo univerſall and unanimous is our Concurrence, that it would be endleſs for us to ſubſcribe our Names (which neither this nor many ſuch papers could contain) but yet in any doubt or miſtruſt of the truth of the matter hereby declared ſhould be conceived or pretended by any, and the Members of Parliament now ſitting (whom we conceive it does in a ſpeciall manner concern) ſhall deſire a viſible Teſtimony hereunto, for their further ſatisfaction and more full aſſurance of the truth and realty hereof, we ſhall be ready upon the leaſt intimation thereof by them given us, in the ſeverall Cities and Counties of the Land, to own and ſubſcribe to what is hereby declalred, and act accordingly.</p>
+            <p>For ſome proof of the premiſes we the inhabitants of the City and Liberty of <hi>Weſtminster,</hi> capable of the choyce of two Burgeſſes to ſerve in Parliament, have to this preſent Declaration ſubſcribed our hands; and ſo much the rather that we might hereby take occaſion to ſignifie to the whole Nation our cordial concurrence with the Common-Councill of <hi>London,</hi> in what was done by that Honourable Court, in the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the City of <hi>London</hi> in their Declaration of 20 <hi>Decem.</hi> for a free Parlament.</p>
+            <list>
+               <item>
+                  <hi>Tho. Father.</hi>
+               </item>
+               <item>
+                  <hi>Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Smith</hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Parker.</hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Smith.</hi>
+               </item>
+               <item>
+                  <hi>John Haget.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Fiſhor.</hi>
+               </item>
+               <item>
+                  <hi>John Hall.</hi>
+               </item>
+               <item>
+                  <hi>John Breaden</hi>
+               </item>
+               <item>
+                  <hi>Edward Clerlee</hi>
+               </item>
+               <item>
+                  <hi>Robert Brough</hi>
+               </item>
+               <item>
+                  <hi>Francis Barnebey</hi>
+               </item>
+               <item>
+                  <hi>Ralph Halſell,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Kirke.</hi>
+               </item>
+               <item>
+                  <hi>Lort Stallings</hi>
+               </item>
+               <item>
+                  <hi>Jeremy Clerke</hi>
+               </item>
+               <item>
+                  <hi>John Sibley</hi>
+               </item>
+               <item>
+                  <hi>William Green</hi>
+               </item>
+               <item>
+                  <hi>William Brewer</hi>
+               </item>
+               <item>
+                  <hi>James Morgan</hi>
+               </item>
+               <item>
+                  <hi>Anthony Hall</hi>
+               </item>
+               <item>
+                  <hi>Edward Boyton</hi>
+               </item>
+               <item>
+                  <hi>Robert Hill</hi>
+               </item>
+               <item>
+                  <hi>Phil. Henbury</hi>
+               </item>
+               <item>
+                  <hi>William Stalle</hi>
+               </item>
+               <item>
+                  <hi>Thomas Hamond</hi>
+               </item>
+               <item>
+                  <hi>Rice Hamond</hi>
+               </item>
+               <item>
+                  <hi>Henry Kemm</hi>
+               </item>
+               <item>
+                  <hi>Edmund Bowers</hi>
+               </item>
+               <item>
+                  <hi>James Naylor</hi>
+               </item>
+               <item>
+                  <hi>Thomas Taylor.</hi>
+               </item>
+            </list>
+            <list>
+               <item>
+                  <hi>William Clerk</hi>
+               </item>
+               <item>
+                  <hi>William Hill</hi>
+               </item>
+               <item>
+                  <hi>Peter Gardiner</hi>
+               </item>
+               <item>
+                  <hi>Grectan Lynch</hi>
+               </item>
+               <item>
+                  <hi>Francis Wanedrake</hi>
+               </item>
+               <item>
+                  <hi>Tho. Hatton</hi>
+               </item>
+               <item>
+                  <hi>Joh. Baber</hi>
+               </item>
+               <item>
+                  <hi>Jo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Dunn</hi>
+               </item>
+               <item>
+                  <hi>Francis Blake,</hi>
+               </item>
+               <item>
+                  <hi>Ralph Hall</hi>
+               </item>
+               <item>
+                  <hi>James Halpeny</hi>
+               </item>
+               <item>
+                  <hi>Ralph Halſall</hi>
+               </item>
+               <item>
+                  <hi>Timothy Taylor</hi>
+               </item>
+               <item>
+                  <hi>George Andrewos</hi>
+               </item>
+               <item>
+                  <hi>John Martin</hi>
+               </item>
+               <item>
+                  <hi>John Rogers</hi>
+               </item>
+               <item>
+                  <hi>William Dunken</hi>
+               </item>
+               <item>
+                  <hi>Tho. Franklin</hi>
+               </item>
+               <item>
+                  <hi>Sam. Smith</hi>
+               </item>
+               <item>
+                  <hi>John Bert</hi>
+               </item>
+               <item>
+                  <hi>William Cooper</hi>
+               </item>
+               <item>
+                  <hi>Jo. Yeale</hi>
+               </item>
+               <item>
+                  <hi>Henry Klener</hi>
+               </item>
+               <item>
+                  <hi>John Hall</hi>
+               </item>
+               <item>
+                  <hi>Elias Smith</hi>
+               </item>
+               <item>
+                  <hi>Rich. Dobs</hi>
+               </item>
+               <item>
+                  <hi>William Whealer</hi>
+               </item>
+               <item>
+                  <hi>Charles Whealer</hi>
+               </item>
+               <item>
+                  <hi>William Symons</hi>
+               </item>
+               <item>
+                  <hi>Godfrey Mobury</hi>
+               </item>
+               <item>
+                  <hi>Tho. Low</hi>
+               </item>
+               <item>
+                  <hi>Che Walley</hi>
+               </item>
+               <item>
+                  <hi>Tho. Thorneton</hi>
+               </item>
+               <item>
+                  <hi>William Cunſtable</hi>
+               </item>
+               <item>
+                  <hi>Robert Noris</hi>
+               </item>
+               <item>
+                  <hi>Gabriel Sideiuck</hi>
+               </item>
+               <item>
+                  <hi>John Emery</hi>
+               </item>
+               <item>
+                  <hi>Edmund Harvey</hi>
+               </item>
+            </list>
+            <list>
+               <item>
+                  <hi>John Green</hi>
+               </item>
+               <item>
+                  <hi>Hugh Dr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>et</hi>
+               </item>
+               <item>
+                  <hi>John Baker</hi>
+               </item>
+               <item>
+                  <hi>Law Newington</hi>
+               </item>
+               <item>
+                  <hi>John Luck</hi>
+               </item>
+               <item>
+                  <hi>John Cooper</hi>
+               </item>
+               <item>
+                  <hi>John Stone</hi>
+               </item>
+               <item>
+                  <hi>Thomas Stone</hi>
+               </item>
+               <item>
+                  <hi>John Bird</hi>
+               </item>
+               <item>
+                  <hi>Thomas Price</hi>
+               </item>
+               <item>
+                  <hi>Solomon More</hi>
+               </item>
+               <item>
+                  <hi>Richard Stirkey</hi>
+               </item>
+               <item>
+                  <hi>Richard Blake</hi>
+               </item>
+               <item>
+                  <hi>John Weſon</hi>
+               </item>
+               <item>
+                  <hi>James Suells</hi>
+               </item>
+               <item>
+                  <hi>Tho. Stone</hi>
+               </item>
+               <item>
+                  <hi>Richard Bird</hi>
+               </item>
+               <item>
+                  <hi>Jo Prige</hi>
+               </item>
+               <item>
+                  <hi>Robert Blayden</hi>
+               </item>
+               <item>
+                  <hi>Tho mer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce</hi>
+               </item>
+               <item>
+                  <hi>William Hakins</hi>
+               </item>
+               <item>
+                  <hi>William Haregrrves</hi>
+               </item>
+               <item>
+                  <hi>William Hill</hi>
+               </item>
+               <item>
+                  <hi>John Wade</hi>
+               </item>
+               <item>
+                  <hi>Edward Hood</hi>
+               </item>
+               <item>
+                  <hi>Ribhard Newton</hi>
+               </item>
+               <item>
+                  <hi>Sam. Juell</hi>
+               </item>
+               <item>
+                  <hi>William Watkins</hi>
+               </item>
+               <item>
+                  <hi>William Peterſon</hi>
+               </item>
+               <item>
+                  <hi>Emery Hill</hi>
+               </item>
+               <item>
+                  <hi>Jo Toung</hi>
+               </item>
+               <item>
+                  <hi>Rich Ddrlina</hi>
+               </item>
+               <item>
+                  <hi>Tho Stevens.</hi>
+               </item>
+               <item>
+                  <hi>John Landbidge</hi>
+               </item>
+               <item>
+                  <hi>John Breden</hi>
+               </item>
+               <item>
+                  <hi>Edward Bew</hi>
+               </item>
+               <item>
+                  <hi>Lyon Emps</hi>
+               </item>
+               <item>
+                  <hi>Henry Ludgould</hi>
+               </item>
+            </list>
+            <list>
+               <item>
+                  <hi>George Oldfield</hi>
+               </item>
+               <item>
+                  <hi>John trevers</hi>
+               </item>
+               <item>
+                  <hi>Robert Burrows</hi>
+               </item>
+               <item>
+                  <hi>Edm. Watters</hi>
+               </item>
+               <item>
+                  <hi>Phillip Lylel</hi>
+               </item>
+               <item>
+                  <hi>Ni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Edlyn</hi>
+               </item>
+               <item>
+                  <hi>Jo Keling</hi>
+               </item>
+               <item>
+                  <hi>George Croſe</hi>
+               </item>
+               <item>
+                  <hi>David Archer,</hi>
+               </item>
+               <item>
+                  <hi>James Teige</hi>
+               </item>
+               <item>
+                  <hi>Hen. Marſon</hi>
+               </item>
+               <item>
+                  <hi>Edw. Bell</hi>
+               </item>
+               <item>
+                  <hi>Rob Nokes</hi>
+               </item>
+               <item>
+                  <hi>Jo Dow</hi>
+               </item>
+               <item>
+                  <hi>William Clyfton</hi>
+               </item>
+               <item>
+                  <hi>Edward Mathew</hi>
+               </item>
+               <item>
+                  <hi>John Merideth</hi>
+               </item>
+               <item>
+                  <hi>John Weſt</hi>
+               </item>
+               <item>
+                  <hi>John Ireland</hi>
+               </item>
+               <item>
+                  <hi>John Lyle</hi>
+               </item>
+               <item>
+                  <hi>Tho. Kirbey</hi>
+               </item>
+               <item>
+                  <hi>William Canning</hi>
+               </item>
+               <item>
+                  <hi>James Barnres</hi>
+               </item>
+               <item>
+                  <hi>Edward Glerke</hi>
+               </item>
+               <item>
+                  <hi>Edward Wilſon</hi>
+               </item>
+               <item>
+                  <hi>Tho. Brumptſted</hi>
+               </item>
+               <item>
+                  <hi>John Edlin</hi>
+               </item>
+               <item>
+                  <hi>John Bradbury</hi>
+               </item>
+               <item>
+                  <hi>John Oxton</hi>
+               </item>
+               <item>
+                  <hi>Edm. Parr</hi>
+               </item>
+               <item>
+                  <hi>Hugh Roberts</hi>
+               </item>
+               <item>
+                  <hi>George Smith</hi>
+               </item>
+               <item>
+                  <hi>John Horſe-pool</hi>
+               </item>
+               <item>
+                  <hi>George green</hi>
+               </item>
+               <item>
+                  <hi>George Braford</hi>
+               </item>
+               <item>
+                  <hi>Tho Veſſey</hi>
+               </item>
+               <item>
+                  <hi>Tho. Gybons</hi>
+               </item>
+               <item>
+                  <hi>Edward Hart</hi>
+               </item>
+               <item>
+                  <hi>John weſon</hi>
+               </item>
+               <item>
+                  <hi>Humphery Groves</hi>
+               </item>
+               <item>
+                  <hi>Hugh Roberts</hi>
+               </item>
+               <item>
+                  <hi>Tho. Fiſher</hi>
+               </item>
+               <item>
+                  <hi>Jo Clendon</hi>
+               </item>
+               <item>
+                  <hi>Robert Cary</hi>
+               </item>
+               <item>
+                  <hi>Tho. Webſter</hi>
+               </item>
+               <item>
+                  <hi>Iohn dixſon.</hi>
+               </item>
+               <item>
+                  <hi>Robert Burows</hi>
+               </item>
+               <item>
+                  <hi>John Vincent</hi>
+               </item>
+               <item>
+                  <hi>Edmund Hart</hi>
+               </item>
+               <item>
+                  <hi>John Tilley</hi>
+               </item>
+               <item>
+                  <hi>John Allen</hi>
+               </item>
+               <item>
+                  <hi>John Edwards</hi>
+               </item>
+               <item>
+                  <hi>Tho. Plant</hi>
+               </item>
+               <item>
+                  <hi>Fran. Jefferis</hi>
+               </item>
+               <item>
+                  <hi>George Old-field</hi>
+               </item>
+               <item>
+                  <hi>Gregory Kent</hi>
+               </item>
+               <item>
+                  <hi>Edward Wallings</hi>
+               </item>
+               <item>
+                  <hi>John Day</hi>
+               </item>
+               <item>
+                  <hi>John Rayd</hi>
+               </item>
+               <item>
+                  <hi>John Barington</hi>
+               </item>
+               <item>
+                  <hi>John Smith</hi>
+               </item>
+               <item>
+                  <hi>John Anderton</hi>
+               </item>
+               <item>
+                  <hi>William Cox</hi>
+               </item>
+               <item>
+                  <hi>Francis Wain</hi>
+               </item>
+               <item>
+                  <hi>John Miller</hi>
+               </item>
+               <item>
+                  <hi>John Tailor</hi>
+               </item>
+               <item>
+                  <hi>Edward Tailor</hi>
+               </item>
+               <item>
+                  <hi>William Ardrewes</hi>
+               </item>
+               <item>
+                  <hi>Mich. oldwrth</hi>
+               </item>
+               <item>
+                  <hi>Nem. Arnoll</hi>
+               </item>
+               <item>
+                  <hi>John Watts</hi>
+               </item>
+               <item>
+                  <hi>John Perkins</hi>
+               </item>
+               <item>
+                  <hi>William Bell</hi>
+               </item>
+               <item>
+                  <hi>John Hull</hi>
+               </item>
+               <item>
+                  <hi>John Benning</hi>
+               </item>
+               <item>
+                  <hi>John Tailor</hi>
+               </item>
+               <item>
+                  <hi>John Frances</hi>
+               </item>
+               <item>
+                  <hi>John Sherwood</hi>
+               </item>
+               <item>
+                  <hi>John Lemont</hi>
+               </item>
+               <item>
+                  <hi>John Pepett</hi>
+               </item>
+               <item>
+                  <hi>John Green</hi>
+               </item>
+               <item>
+                  <hi>John Harris</hi>
+               </item>
+               <item>
+                  <hi>Iohn Stone</hi>
+               </item>
+               <item>
+                  <hi>Thomas Brown.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Halſepenny</hi>
+               </item>
+               <item>
+                  <hi>Tho. Layton</hi>
+               </item>
+               <item>
+                  <hi>Robert Balard,</hi>
+               </item>
+               <item>
+                  <hi>Hugh Gamlynſon</hi>
+               </item>
+               <item>
+                  <hi>Rich. Rider</hi>
+               </item>
+               <item>
+                  <hi>John Holland</hi>
+               </item>
+               <item>
+                  <hi>John Pepet</hi>
+               </item>
+               <item>
+                  <hi>John Jones</hi>
+               </item>
+               <item>
+                  <hi>Edward Pipps</hi>
+               </item>
+               <item>
+                  <hi>Edward Martin</hi>
+               </item>
+               <item>
+                  <hi>William Hugh</hi>
+               </item>
+               <item>
+                  <hi>Ambroſe Henbury</hi>
+               </item>
+               <item>
+                  <hi>Tho. Smith</hi>
+               </item>
+               <item>
+                  <hi>Edward Gravener</hi>
+               </item>
+               <item>
+                  <hi>Edward Hailles</hi>
+               </item>
+               <item>
+                  <hi>Nat. ffines</hi>
+               </item>
+               <item>
+                  <hi>John Wilſon</hi>
+               </item>
+               <item>
+                  <hi>John Tey</hi>
+               </item>
+               <item>
+                  <hi>John Pery</hi>
+               </item>
+               <item>
+                  <hi>Rich. Hill</hi>
+               </item>
+               <item>
+                  <hi>Ro. Watſon</hi>
+               </item>
+               <item>
+                  <hi>Ben. Hill</hi>
+               </item>
+               <item>
+                  <hi>Chr. Robinſon</hi>
+               </item>
+               <item>
+                  <hi>Tho. Stone</hi>
+               </item>
+               <item>
+                  <hi>Tho. Baker</hi>
+               </item>
+               <item>
+                  <hi>Luke Andrew</hi>
+               </item>
+               <item>
+                  <hi>John Robinſon</hi>
+               </item>
+               <item>
+                  <hi>Peter Smith</hi>
+               </item>
+               <item>
+                  <hi>Tho. Jones</hi>
+               </item>
+               <item>
+                  <hi>Jo. Cooper</hi>
+               </item>
+               <item>
+                  <hi>G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Drem</hi>
+               </item>
+               <item>
+                  <hi>William Smith</hi>
+               </item>
+               <item>
+                  <hi>Peter Clerke</hi>
+               </item>
+               <item>
+                  <hi>Edm. Harvey</hi>
+               </item>
+               <item>
+                  <hi>William Batts</hi>
+               </item>
+               <item>
+                  <hi>Tho. Taylor</hi>
+               </item>
+               <item>
+                  <hi>Mich. Clerke.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Hill</hi>
+               </item>
+               <item>
+                  <hi>John Horſepool</hi>
+               </item>
+               <item>
+                  <hi>John Bland</hi>
+               </item>
+               <item>
+                  <hi>John Smith,</hi>
+               </item>
+               <item>
+                  <hi>Anro. Bulin</hi>
+               </item>
+               <item>
+                  <hi>To. Blacher</hi>
+               </item>
+               <item>
+                  <hi>William Wells</hi>
+               </item>
+               <item>
+                  <hi>William Amblier</hi>
+               </item>
+               <item>
+                  <hi>Tho. Huett</hi>
+               </item>
+               <item>
+                  <hi>Iohn Scot</hi>
+               </item>
+               <item>
+                  <hi>William Playtor</hi>
+               </item>
+               <item>
+                  <hi>Anto. Erbey</hi>
+               </item>
+               <item>
+                  <hi>Raud Crew</hi>
+               </item>
+               <item>
+                  <hi>Roger Sindery</hi>
+               </item>
+               <item>
+                  <hi>Tho. Parr</hi>
+               </item>
+               <item>
+                  <hi>Charles Gibon</hi>
+               </item>
+               <item>
+                  <hi>Io. Lams</hi>
+               </item>
+               <item>
+                  <hi>George Guliams</hi>
+               </item>
+               <item>
+                  <hi>Rich. Filkins</hi>
+               </item>
+               <item>
+                  <hi>Io. Iones.</hi>
+               </item>
+               <item>
+                  <hi>Evan Iones</hi>
+               </item>
+               <item>
+                  <hi>Iohn Coumes</hi>
+               </item>
+               <item>
+                  <hi>Edmund <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oumes</hi>
+               </item>
+               <item>
+                  <hi>Peter Gray</hi>
+               </item>
+               <item>
+                  <hi>Co. Salaway</hi>
+               </item>
+               <item>
+                  <hi>Tho. Salaway</hi>
+               </item>
+               <item>
+                  <hi>Roger Clerk,</hi>
+               </item>
+               <item>
+                  <hi>Robert Blake</hi>
+               </item>
+               <item>
+                  <hi>Henry Howard</hi>
+               </item>
+               <item>
+                  <hi>Iohn Ianes</hi>
+               </item>
+               <item>
+                  <hi>Edward wilſon</hi>
+               </item>
+               <item>
+                  <hi>George Smith</hi>
+               </item>
+               <item>
+                  <hi>Ambroſe Clerke</hi>
+               </item>
+               <item>
+                  <hi>Io. Uſher</hi>
+               </item>
+               <item>
+                  <hi>Tho. Weſt.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Mazine</hi>
+               </item>
+               <item>
+                  <hi>Sam. Nicholas</hi>
+               </item>
+               <item>
+                  <hi>Tho. Price.</hi>
+               </item>
+               <item>
+                  <hi>William Briter</hi>
+               </item>
+               <item>
+                  <hi>Io. Benſon</hi>
+               </item>
+               <item>
+                  <hi>Rob. Ioyner</hi>
+               </item>
+               <item>
+                  <hi>Richard Scot</hi>
+               </item>
+               <item>
+                  <hi>Iohn Rude</hi>
+               </item>
+               <item>
+                  <hi>William Waller</hi>
+               </item>
+               <item>
+                  <hi>Iohn Gabet</hi>
+               </item>
+               <item>
+                  <hi>Iohn Thorne</hi>
+               </item>
+               <item>
+                  <hi>Gabriel Clerk</hi>
+               </item>
+               <item>
+                  <hi>Tho. Kerk</hi>
+               </item>
+               <item>
+                  <hi>Iohn Towes</hi>
+               </item>
+               <item>
+                  <hi>Edw. Bowleworth</hi>
+               </item>
+               <item>
+                  <hi>Adam Kent</hi>
+               </item>
+               <item>
+                  <hi>Hugh gamlyn</hi>
+               </item>
+               <item>
+                  <hi>Gregorie Sands</hi>
+               </item>
+               <item>
+                  <hi>Gregorie Harbert</hi>
+               </item>
+               <item>
+                  <hi>Iohn Francis</hi>
+               </item>
+               <item>
+                  <hi>Edw. Miller</hi>
+               </item>
+               <item>
+                  <hi>Fran. Drake</hi>
+               </item>
+               <item>
+                  <hi>Tho. Harahe</hi>
+               </item>
+               <item>
+                  <hi>Peter Lake</hi>
+               </item>
+               <item>
+                  <hi>Edmund Sanders</hi>
+               </item>
+               <item>
+                  <hi>George Peal</hi>
+               </item>
+               <item>
+                  <hi>Iohn Webl</hi>
+               </item>
+               <item>
+                  <hi>Robert Blackbourne</hi>
+               </item>
+               <item>
+                  <hi>Iohn Hatten</hi>
+               </item>
+               <item>
+                  <hi>Tho. Whiſen</hi>
+               </item>
+               <item>
+                  <hi>Stephen Beder</hi>
+               </item>
+               <item>
+                  <hi>Matt. Celley</hi>
+               </item>
+               <item>
+                  <hi>Iohn Hugh</hi>
+               </item>
+               <item>
+                  <hi>Henr. Lawrance</hi>
+               </item>
+               <item>
+                  <hi>Tho. Moore</hi>
+               </item>
+               <item>
+                  <hi>Edm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Hernig</hi>
+               </item>
+               <item>
+                  <hi>Iohn Flock</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
